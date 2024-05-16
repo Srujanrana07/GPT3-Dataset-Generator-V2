@@ -4,7 +4,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gpt3-dataset-generator.streamlit.app/)
 
-This app generates datasets using GPT3. It was developped by [Charly Wargnier](https://twitter.com/DataChaz) and [Tony Kipkemboi](https://twitter.com/_townee), as part of the ❄️ [Snowflake](https://www.snowflake.com/en/) Snowvation Hackathon.
+This app generates datasets using GPT3. 
 
 <div style="display:flex;">
   <img src="https://user-images.githubusercontent.com/27242399/208650139-8f6bd9bc-bf38-4a6e-886c-a2d93a350335.png" height="250">
